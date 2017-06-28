@@ -1,0 +1,60 @@
+
+<form id="1767427246">
+<property name="name" value="cliente.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="cliente_cadimp" type="InputTextPrimitiveInteger" id="1766811452">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cadimp (cliente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cliente/cadimp"/>
+<property name="outputBinding" value="cliente/cadimp"/>
+<property name="fieldClass" value="int"/>
+</field>
+<field position="1" name="cliente_tp_cliente" type="InputText" id="1681833548">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;tp_cliente (cliente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cliente/tp_cliente"/>
+<property name="outputBinding" value="cliente/tp_cliente"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="cliente_cnee" type="InputText" id="1199605994">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;cnee (cliente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cliente/cnee"/>
+<property name="outputBinding" value="cliente/cnee"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="cliente_contato" type="InputText" id="2016205675">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;contato (cliente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cliente/contato"/>
+<property name="outputBinding" value="cliente/contato"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="cliente_des_email" type="InputText" id="1168572459">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;des_email (cliente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cliente/des_email"/>
+<property name="outputBinding" value="cliente/des_email"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="cliente_telefone" type="InputText" id="181633593">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;telefone (cliente)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="cliente/telefone"/>
+<property name="outputBinding" value="cliente/telefone"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="cliente" name="#E9E371" type="dataModelerEntry" outId="cliente" value="com.myteam.relatoriofrete.cliente" id="cliente"/>
+</form>

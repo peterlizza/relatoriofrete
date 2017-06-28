@@ -1,0 +1,15 @@
+
+<form id="661959126">
+<property name="name" value="roteiro.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="roteiro_tipo_operacao" type="InputText" id="1491481751">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo_operacao (roteiro)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="roteiro/tipo_operacao"/>
+<property name="outputBinding" value="roteiro/tipo_operacao"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="roteiro" name="#BBBBBB" type="dataModelerEntry" outId="roteiro" value="com.myteam.relatoriofrete.roteiro" id="roteiro"/>
+</form>
